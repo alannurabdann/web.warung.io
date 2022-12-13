@@ -1,0 +1,83 @@
+{
+	"products": [{
+		"group_id": 1,
+		"group_title": "Layanan Digital",
+		"data": [{
+			"product_id": 1,
+			"product_name": "Pulsa",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/pulsa.png"
+		}, {
+			"product_id": 2,
+			"product_name": "Paket Data",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/paket-data.png"
+		}, {
+			"product_id": 3,
+			"product_name": "PLN",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/pln.png"
+		}, {
+			"product_id": 4,
+			"product_name": "BPJS",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/bpjs.png"
+		}, {
+			"product_id": 5,
+			"product_name": "PDAM",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/pdam.png"
+		}, {
+			"product_id": 17,
+			"product_name": "E-Money",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/e-money.png"
+		}]
+	}, {
+		"group_id": 2,
+		"group_title": "Voucher",
+		"data": [{
+			"product_id": 6,
+			"product_name": "Unipin",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/logo_unipin.png"
+		}, {
+			"product_id": 7,
+			"product_name": "Google Play",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/google-play.png"
+		}, {
+			"product_id": 8,
+			"product_name": "Spotify",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/spotify.png"
+		}]
+	}, {
+		"group_id": 3,
+		"group_title": "Payment Point",
+		"data": [{
+			"product_id": 9,
+			"product_name": "Belanja Online",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/ecomm.png"
+		}, {
+			"product_id": 10,
+			"product_name": "Transportasi",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/transport.png"
+		}, {
+			"product_id": 11,
+			"product_name": "Edukasi",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/education.png"
+		}, {
+			"product_id": 12,
+			"product_name": "Keuangan",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/finance.png"
+		}, {
+			"product_id": 13,
+			"product_name": "Asuransi",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/insurance.png"
+		}, {
+			"product_id": 14,
+			"product_name": "Internet & TV",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/internet.png"
+		}, {
+			"product_id": 15,
+			"product_name": "Keanggotaan",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/membership.png"
+		}, {
+			"product_id": 16,
+			"product_name": "Utilitas Umum",
+			"icon": "https://comprof.s3.ap-southeast-1.amazonaws.com/assets-mitra/products/utility.png"
+		}]
+	}]
+}

@@ -1,0 +1,45 @@
+{
+	"list_menu": [{
+		"id": 1,
+		"title": "Laporan",
+		"submenu": [{
+			"id": 10,
+			"menu": "Rekap Penjualan"
+		}, {
+			"id": 11,
+			"menu": "Riwayat Struk"
+		}, {
+			"id": 12,
+			"menu": "Laba Rugi Toko"
+		}]
+	}, {
+		"id": 2,
+		"title": "Kelola Produk",
+		"submenu": [{
+			"id": 20,
+			"menu": "Daftar Produk"
+		}, {
+			"id": 21,
+			"menu": "Daftar Kategori"
+		}, {
+			"id": 22,
+			"menu": "Daftar Promo"
+		}, {
+			"id": 23,
+			"menu": "Stock Opname"
+		}]
+	}, {
+		"id": 3,
+		"title": "Kelola Toko",
+		"submenu": [{
+			"id": 30,
+			"menu": "Banner Toko"
+		}, {
+			"id": 31,
+			"menu": "Struk"
+		}, {
+			"id": 32,
+			"menu": "Pembayaran dan Pajak"
+		}]
+	}]
+}
