@@ -1,0 +1,334 @@
+{
+    "banners": [
+        {
+            "id": 672,
+            "altname": "PENUKARAN POIN IGR",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/637ef33151a41.jpg"
+        },
+        {
+            "id": 676,
+            "altname": "SUPER PROMO EDISI 23 DES 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/6387fee3e5a09.jpg"
+        },
+        {
+            "id": 666,
+            "altname": "PRODUK SEGAR DAN TELUR KINI TERSEDIA DI KLIK",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/63747ece9eb24.jpg"
+        },
+        {
+            "id": 686,
+            "altname": "HARBOLNAS 12.12",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/6391a2a28f710.jpg"
+        },
+        {
+            "id": 680,
+            "altname": "FREE ONGKIR DES 22 - JAN 23",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/638874aca4f14.jpg"
+        },
+        {
+            "id": 639,
+            "altname": "PROMO POIN MB",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/635bb2ec6b918.jpg"
+        },
+        {
+            "id": 684,
+            "altname": "PROMO LARISST FAIR DES 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/6389c83ee5cae.jpg"
+        },
+        {
+            "id": 663,
+            "altname": "PROMO BUAVITA NOV",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/6373378796246.jpg"
+        },
+        {
+            "id": 689,
+            "altname": "PROMO UNIVENUS FAIR DES 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/639832f343fb8.jpg"
+        },
+        {
+            "id": 685,
+            "altname": "PROMO UNILEVER HOME CARE DES 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/63904ae29fe50.jpg"
+        },
+        {
+            "id": 681,
+            "altname": "PROMO LEE KUM KEE FAIR DES 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/63894d8d87092.jpg"
+        },
+        {
+            "id": 690,
+            "altname": "PROMO KAO ATTACK HDH FAIR DES",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/639833c459976.jpg"
+        },
+        {
+            "id": 691,
+            "altname": "PROMO UNICHARM FAIR DES 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/639834798f651.jpg"
+        },
+        {
+            "id": 692,
+            "altname": "PROMO KAO BIORE FAIR 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/639835902ced9.jpg"
+        },
+        {
+            "id": 658,
+            "altname": "PROMO HARPIC DAN VANISH FAIR NOV 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/636b18a0e925b.jpg"
+        },
+        {
+            "id": 678,
+            "altname": "PROMO KENMASTER FAIR DES 22",
+            "url": "https://www.klikindogrosir.com/list///?key=&brand=",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/63885b9e59e0c.jpg"
+        }
+    ],
+    "categories": [
+        {
+            "id": 27,
+            "division": "Ibu & Anak",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5a927a472.png"
+        },
+        {
+            "id": 28,
+            "division": "Minuman",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5accf106e.png"
+        },
+        {
+            "id": 29,
+            "division": "Makanan",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5abec7e49.png"
+        },
+        {
+            "id": 30,
+            "division": "Kesehatan & Kecantikan",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5ab3806f7.png"
+        },
+        {
+            "id": 31,
+            "division": "Rumah Tangga",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5affab9c3.png"
+        },
+        {
+            "id": 32,
+            "division": "Perlengkapan Kantor",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5ae59da56.png"
+        },
+        {
+            "id": 33,
+            "division": "Produk 18+ (TIDAK untuk Anak/Remaja/Ibu hamil)",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5af179fc1.png"
+        },
+        {
+            "id": 34,
+            "division": "Otomotif",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5adb11bc4.png"
+        },
+        {
+            "id": 44,
+            "division": "Produk Segar",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/6350cbd8ac4e1.png"
+        },
+        {
+            "id": 47,
+            "division": "HoReKa",
+            "images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/62cfc854ec58f.png"
+        }
+    ],
+    "recommendations" : [
+        {
+            "prdcd": "0646901",
+            "kode_igr": "18",
+            "long_description": "GULAKU GULA TEBU (PUTIH) PREMIUM PCK 1000g",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 13500,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "05",
+            "kode_category": "02",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0646900.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "0060411",
+            "kode_igr": "18",
+            "long_description": "INDOMIE MIE GORENG PLUS SPECIAL PCK 80g",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 3000,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "08",
+            "kode_category": "01",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0060410.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "0054581",
+            "kode_igr": "18",
+            "long_description": "INDOMIE MIE INSTANT SOTO MIE PCK 70g",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 2850,
+            "flagpromomd": 1,
+            "prmd_hrgjual": 2615,
+            "flag_wishlist": 0,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "08",
+            "kode_category": "01",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0054580.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "0027941",
+            "kode_igr": "18",
+            "long_description": "INDOMIE MIE INSTANT AYAM BAWANG PCK 69g",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 2850,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 1,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "08",
+            "kode_category": "01",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0027940.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "0003771",
+            "kode_igr": "18",
+            "long_description": "INDOMIE MIE INSTANT KARI AYAM PCK 72g",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 3100,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "08",
+            "kode_category": "01",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0003770.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "1268981",
+            "kode_igr": "18",
+            "long_description": "FRISIAN FLAG KENTAL MANIS PUTIH  PCK 6x38/40g",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 8250,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "02",
+            "kode_category": "01",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/1268980.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "1173531",
+            "kode_igr": "18",
+            "long_description": "SEGITIGA BIRU TERIGU TRANSPARAN  PCK 1000g",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 11250,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "05",
+            "kode_category": "04",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/1173530.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "0346281",
+            "kode_igr": "18",
+            "long_description": "BIMOLI MINYAK GORENG (REFILL)  PCH 2000mL",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 47500,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "E",
+            "kode_division": "1",
+            "kode_department": "06",
+            "kode_category": "01",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0346280.png",
+            "isAvailable": 1
+        },
+        {
+            "prdcd": "0030681",
+            "kode_igr": "18",
+            "long_description": "MARJAN SYRUP COCOPANDAN BTL 500/460mL",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 22000,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "",
+            "kode_division": "1",
+            "kode_department": "04",
+            "kode_category": "10",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0030680.png",
+            "isAvailable": 0
+        },
+        {
+            "prdcd": "0391921",
+            "kode_igr": "18",
+            "long_description": "BEAR BRAND SUSU ENCER STERIL  KLG 189mL",
+            "frac": 1,
+            "unit": "PCS",
+            "min_jual": 1,
+            "hrg_jual": 10500,
+            "flagpromomd": null,
+            "prmd_hrgjual": null,
+            "flag_wishlist": 0,
+            "kode_tag": "",
+            "kode_division": "1",
+            "kode_department": "02",
+            "kode_category": "04",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0391920.png",
+            "isAvailable": 1
+        }
+    ]
+}

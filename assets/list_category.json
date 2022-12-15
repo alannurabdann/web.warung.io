@@ -1,0 +1,48 @@
+{
+	"category": [{
+			"id": 27,
+			"division": "Ibu & Anak",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5a927a472.png"
+		},
+		{
+			"id": 28,
+			"division": "Minuman",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5accf106e.png"
+		},
+		{
+			"id": 29,
+			"division": "Makanan",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5abec7e49.png"
+		},
+		{
+			"id": 30,
+			"division": "Kesehatan & Kecantikan",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5ab3806f7.png"
+		},
+		{
+			"id": 31,
+			"division": "Rumah Tangga",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5affab9c3.png"
+		},
+		{
+			"id": 32,
+			"division": "Perlengkapan Kantor",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5ae59da56.png"
+		},
+		{
+			"id": 33,
+			"division": "Produk 18+ (TIDAK untuk Anak/Remaja/Ibu hamil)",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5af179fc1.png"
+		},
+		{
+			"id": 34,
+			"division": "Otomotif",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/60dd5adb11bc4.png"
+		},
+		{
+			"id": 46,
+			"division": "HOREKA",
+			"images": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/assets/58981b27246a4.png"
+		}
+	]
+}
